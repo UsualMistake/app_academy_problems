@@ -1,3 +1,9 @@
+# Problem Statement:
+
+# Write a method to_initials that takes in a person's name string and returns a string representing their initials.
+
+# My solution:
+
 def to_initials(name)
  
   arr = name.split(" ")
